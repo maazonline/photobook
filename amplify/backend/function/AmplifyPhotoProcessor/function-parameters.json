@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "api": {
+      "AmplifyPhotosApi": [
+        "create",
+        "read",
+        "update",
+        "delete"
+      ]
+    }
+  },
+  "lambdaLayers": []
+}
